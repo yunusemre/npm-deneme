@@ -1,0 +1,14 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { MyFolderComponent } from './my-folder.component';
+let MyFolderModule = class MyFolderModule {
+};
+MyFolderModule = __decorate([
+    NgModule({
+        declarations: [MyFolderComponent],
+        imports: [],
+        exports: [MyFolderComponent]
+    })
+], MyFolderModule);
+export { MyFolderModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibXktZm9sZGVyLm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL215LWZvbGRlci8iLCJzb3VyY2VzIjpbImxpYi9teS1mb2xkZXIubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSxpQkFBaUIsRUFBRSxNQUFNLHVCQUF1QixDQUFDO0FBVTFELElBQWEsY0FBYyxHQUEzQixNQUFhLGNBQWM7Q0FBSSxDQUFBO0FBQWxCLGNBQWM7SUFOMUIsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsaUJBQWlCLENBQUM7UUFDakMsT0FBTyxFQUFFLEVBQ1I7UUFDRCxPQUFPLEVBQUUsQ0FBQyxpQkFBaUIsQ0FBQztLQUM3QixDQUFDO0dBQ1csY0FBYyxDQUFJO1NBQWxCLGNBQWMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBOZ01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuaW1wb3J0IHsgTXlGb2xkZXJDb21wb25lbnQgfSBmcm9tICcuL215LWZvbGRlci5jb21wb25lbnQnO1xuXG5cblxuQE5nTW9kdWxlKHtcbiAgZGVjbGFyYXRpb25zOiBbTXlGb2xkZXJDb21wb25lbnRdLFxuICBpbXBvcnRzOiBbXG4gIF0sXG4gIGV4cG9ydHM6IFtNeUZvbGRlckNvbXBvbmVudF1cbn0pXG5leHBvcnQgY2xhc3MgTXlGb2xkZXJNb2R1bGUgeyB9XG4iXX0=

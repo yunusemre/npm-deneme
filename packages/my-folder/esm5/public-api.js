@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of my-folder
+ */
+export * from './lib/my-folder.service';
+export * from './lib/my-folder.component';
+export * from './lib/my-folder.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL215LWZvbGRlci8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHlCQUF5QixDQUFDO0FBQ3hDLGNBQWMsMkJBQTJCLENBQUM7QUFDMUMsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbXktZm9sZGVyXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbXktZm9sZGVyLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbXktZm9sZGVyLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9teS1mb2xkZXIubW9kdWxlJztcbiJdfQ==

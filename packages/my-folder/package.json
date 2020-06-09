@@ -1,0 +1,21 @@
+{
+  "name": "my-folder",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/my-folder.umd.js",
+  "module": "fesm5/my-folder.js",
+  "es2015": "fesm2015/my-folder.js",
+  "esm5": "esm5/my-folder.js",
+  "esm2015": "esm2015/my-folder.js",
+  "fesm5": "fesm5/my-folder.js",
+  "fesm2015": "fesm2015/my-folder.js",
+  "typings": "my-folder.d.ts",
+  "metadata": "my-folder.metadata.json",
+  "sideEffects": false
+}
